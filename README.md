@@ -1,2 +1,2 @@
 # my_first_repo
-This is a change on my REDME
+este es mi primer repositorio
